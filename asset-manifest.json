@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wsp-knowledge/static/css/main.d5936ab5.chunk.css",
-    "main.js": "/wsp-knowledge/static/js/main.31f5cb8f.chunk.js",
-    "main.js.map": "/wsp-knowledge/static/js/main.31f5cb8f.chunk.js.map",
+    "main.js": "/wsp-knowledge/static/js/main.c902559c.chunk.js",
+    "main.js.map": "/wsp-knowledge/static/js/main.c902559c.chunk.js.map",
     "runtime-main.js": "/wsp-knowledge/static/js/runtime-main.b7bfd0d0.js",
     "runtime-main.js.map": "/wsp-knowledge/static/js/runtime-main.b7bfd0d0.js.map",
     "static/js/2.d37d15fb.chunk.js": "/wsp-knowledge/static/js/2.d37d15fb.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.b7bfd0d0.js",
     "static/js/2.d37d15fb.chunk.js",
     "static/css/main.d5936ab5.chunk.css",
-    "static/js/main.31f5cb8f.chunk.js"
+    "static/js/main.c902559c.chunk.js"
   ]
 }
